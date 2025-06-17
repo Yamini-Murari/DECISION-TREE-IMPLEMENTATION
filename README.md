@@ -56,3 +56,8 @@ To determine what illness a patient may have, doctors use decision trees. The sy
 2. Banking Decision trees are used by banks to determine whether a person is a good fit when they apply for a credit card or loan. To determine whether or not to approve someone, the system considers factors like income, credit history, and prior behavior.
 
 3. Decision trees are used in retail (shopping) establishments and internet retailers.
+
+*OUTPUT* : 
+
+![Image](https://github.com/user-attachments/assets/8d886e9d-6adf-4703-b342-0204fb238457)
+![Image](https://github.com/user-attachments/assets/0375c4d6-79b9-487f-b9aa-dd8acf3f4bb3)
